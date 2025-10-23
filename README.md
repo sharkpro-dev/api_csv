@@ -32,7 +32,7 @@ an API for it, run one of:
 fastapi-csv people.csv
 
 # directly from URL
-fastapi-csv https://raw.githubusercontent.com/jrieke/fastapi-csv/main/people.csv
+https://github.com/sharkpro-dev/api_csv/blob/main/people.csv
 ```
 
 Either command should start a fastapi instance, which has auto-generated endpoints and 
